@@ -1,10 +1,10 @@
-# Web Starter
+# Typography Only for YOUR TOPIC
 
-> Computers are dumb. Humans make them smart.
+> Small line from you content
 
-Starter (boilerplate) for all future projects.
+A web project to experiment with ONLY CSS typography.
 
-## Why Does This Exist?
-* Don't start with nothing
-* Common boilerplate for web projects
-* I am a human being who makes mistakes
+## CSS Concepts
+* Typography
+* Box Model
+* CSS Variables
