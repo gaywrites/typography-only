@@ -1,5 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Anybody:ital,wght@0,100..900;1,100..900&display=swap');
 
+:root {
+    --color1: #80EFAA;
+    --color2: #808DEF;
+    --color3: #EF80C5;
+    --color4: #EFE280;
+    --primaryfont: "Anybody", serif;
+  }
+
 body {
-    background: gainsboro;
+    background: linear-gradient(45deg,var(--color2),var(--color3),var(--color4),var(--color1);
+    font-family: var(--primaryfont);
 }
