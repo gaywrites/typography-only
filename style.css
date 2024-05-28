@@ -9,6 +9,22 @@
   }
 
 body {
-    background: linear-gradient(45deg,var(--color2),var(--color3),var(--color4),var(--color1);
     font-family: var(--primaryfont);
+}
+
+main {
+    background: linear-gradient(45deg,var(--color2),var(--color3),var(--color4),var(--color1));
+    padding: 33px;
+    width: 50%;
+    margin: 0 auto 0 auto;
+    position: relative;
+}
+span {
+    margin: 10px;
+    padding: 10px;
+    font-size: 4rem;
+    float: left;
+}
+blockquote {
+    
 }
