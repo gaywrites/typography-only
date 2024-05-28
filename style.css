@@ -26,5 +26,9 @@ span {
     float: left;
 }
 blockquote {
-    
+    padding-top: 70px;
+}
+
+p {
+    border-left: solid 10 px var(--color1)
 }
